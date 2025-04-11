@@ -6,7 +6,7 @@ I'm a Computer Science student at the IUT of Metz, passionate about software dev
 
 - ![Languages](https://img.shields.io/badge/Languages-Java,%20JavaScript,%20Python,%20PHP-%23f7df1e?style=flat-square&logo=javascript)
 - ![Frameworks](https://img.shields.io/badge/Frameworks-Symfony,%20Angular,%20Godot-%2320232a?style=flat-square&logo=godot-engine)
-- ![Tools](https://img.shields.io/badge/Tools-Neovim,%20Git,%20IntelliJ%20IDEA,%20Zeendoc,%20VScode-%23007ACC?style=flat-square&logo=visual-studio-code)
+- ![Tools](https://img.shields.io/badge/Tools-Neovim,%20Git,%20IntelliJ%20IDEA,%20Zeendoc)
 - ![OS](https://img.shields.io/badge/OS-Arch%20Linux%20(Sway)-%231790D8?style=flat-square&logo=arch-linux)
 
 ## 🌱 Currently Learning
