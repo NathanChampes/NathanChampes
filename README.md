@@ -12,6 +12,7 @@ I'm a Computer Science student at the IUT of Metz, passionate about software dev
 ## 🌱 Currently Learning
 
 - 🤖 Webhooks usage for automatisation in Zeendoc
+- 🦀 Rust language to build a terminal application that uses Vim-like motions to interact with structured data, inspired by tools like spotify-tui and k9s
 
 ## 📚 Academic Journey
 
